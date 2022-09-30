@@ -1,0 +1,1 @@
+export const MAX_POS = 4;   // 최대 칸 수
